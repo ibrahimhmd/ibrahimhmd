@@ -1,9 +1,10 @@
 ### Hi there 👋, Ibrahim Hammoud
-####  Software developer
-![ software developer](https://pbs.twimg.com/profile_banners/4853174237/1633256878/1500x500)
+####  iOS developer certificated by ![61fae2d395e6ca00047b4f12](https://github.com/ibrahimhmd/ibrahimhmd/assets/46127624/69cbc997-10f7-4d86-b337-5a66c4c8dc98)
 
 
-Skills:  SwiftUI / Swift / PYTHON / JS / ReactJS / JAVA
+
+
+Skills:  
 
 - 🔭 Coding with a touch of creativity, powering iOS innovation.
 
