@@ -5,7 +5,7 @@
 
 ## Skills: 
 
-[![My Skills](https://skillicons.dev/icons?i=swift,js,html,css,java,nodejs,react,py,powershell,bash,npm,azure,docker,git,visualstudio,vscode,replit,figma,windows,linux,firebase,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,js,html,css,java,nodejs,react,py,powershell,bash,npm,azure,docker,git,visualstudio,vscode,replit,figma,windows,linux,firebase,github,webflow)](https://skillicons.dev)
 
 
 
